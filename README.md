@@ -1,2 +1,4 @@
 # datasciencebasics
-basic DS scripts: data preprocessing, math.models, etc.
+Data Science is my passion :)
+
+Basic DS scripts: data preprocessing, math.models, etc.
